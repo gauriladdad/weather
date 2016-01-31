@@ -1,7 +1,10 @@
-# weather
-learning react native for IOS 
+==============Project description==============
 
-The weather for a particular location can be found by zooming/pinching into/selecting a location onto the map. It will 
-be a city closer to the center of map.
+This is application to get weather data of a particular location selected on world map.
+A particular location can be found by zooming/pinching into/selecting a location onto the map. The app will default
+to a city closer to the center of the map.
 
-The information will container - City name, temparature and short description (like partly cloudy or snow or so).
+The weather information will contain - City name, temparature and short description (like partly cloudy or snow or so).
+
+==============Test==============
+I have used XCode to test this application.
