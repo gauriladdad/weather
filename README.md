@@ -9,7 +9,7 @@ The weather information will contain - City name, temparature and short descript
 1. React-native
 2. Xcode
 3. Sublime editor
-3. Github repository
+3. SourceTree
 
 ### Device Support
 
