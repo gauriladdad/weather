@@ -14,3 +14,8 @@ The weather information will contain - City name, temparature and short descript
 ### Device Support
 
 This application works well on iOS platform. The same has been verified using XCode.
+
+===== Upon checkout
+
+please make sure to run npm install before opening the project in XCode. 
+This is required to make sure all the dependancies are installed.
